@@ -1,33 +1,33 @@
-Raspberry Pi Model B+, 2 B and 3 B Case -- Noisebridge Remix
+Raspberry Pi Model B+, 2 B and 3 B Case -- [NextcloudPi](https://github.com/nextcloud/nextcloudpi) Remix
 ==================================
+    
+This is a simple or quite complex acrylic lasercut case for the Raspberry Pi Model B+, 2 B and 3 B.  I've added an activity icon, same used in the Nextcloud project, to be lit up by the Pi's built-in activity LED's on the front and top of the case.  Optionally, you can choose to inlay the case as I've done + add an optional GPIO 5mm LED that looks awesome and is controlled via python commands.
+    
+**Simple option** is to raster etch the logo on a single color of 3mm Acrylic.    
+**Complex option** is to inlay two contrasting colors of 3mm Cast Acrylic, as seen in the photo, such as blue and white.  To inlay the acrylic you'll need to glue it by hand (instructions TBA).  For my personal cases I also decided to expand the PI's lighting by creating an additional 5mm LED header on the GPIO, which is controlled by python commands (TBA if requested).
 
-This is a simple acrylic lasercut case for the Raspberry Pi Model B+, 2 B and 3 B.
-
-![top](images/top.jpg)
+![blue inlaid case with expansion led](images/case-blue-with-5mm-led-expansion.JPG)
+![blue inlaid case](images/case-blue.JPG)
 
 Build Instructions
 ------------------
 
-![raspberrypi-b-plus-case](images/raspberrypi-b-plus-case.png)
+![raspberrypi-b-plus-case](images/nextcloudpi-case.png)
 
-    green:	vector engraving
+    pink:	raster engraving
     black:	raster engraving
     red:	cut
 
-Detailed instructions coming soon.™
+Detailed instructions coming soon for the case and 5mm LED gpio expansion.™
 
-BOM
+BOM for Case
 ---
 
-- 3mm acryl
+- 3mm acrylic
 - 4x M2.5 10mm screws
-- 4x M2.5 screw nuts
-
-Visicut color-mapping
----------------------
-
-If you use Visicut (https://github.com/t-oster/VisiCut) you can find a working color-mapping under 
-[visicut/raspberrypi-b-plus-case.xml](visicut/raspberrypi-b-plus-case.xml)
+- 4x M2.5 screw nuts    
+![NextcloudPi comic just for fun](images/nextcloudpi-comic.png)
+![black inlaid case](images/case-black.jpg)
 
 License
 -------
