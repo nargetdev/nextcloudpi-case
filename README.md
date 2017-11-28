@@ -1,4 +1,4 @@
-Raspberry Pi Model B+, 2 B and 3 B Case -- [NextcloudPi](https://github.com/nextcloud/nextcloudpi) Remix
+Raspberry Pi Model B+, 2 B and 3 B Case -- [NextcloudPi](https://github.com/nextcloud/nextcloudpi)
 ==================================
     
 This is a simple or quite complex acrylic lasercut case for the Raspberry Pi Model B+, 2 B and 3 B.  It is my love letter to the [NextcloudPi project](https://ownyourbits.com/2017/02/13/nextcloud-ready-raspberry-pi-image/).  I've added an activity icon, same used by the [Nextcloud project](https://nextcloud.com/), to be lit up by the Pi's built-in activity LED's on the front and top of the case.  Optionally, you can choose to inlay the case as I've done + add an optional GPIO 5mm LED that looks awesome and is controlled via python commands.
